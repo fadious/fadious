@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Fadi
 - 👀 I’m interested in Software Quality Assurance and iOS Development
-- 🌱 I’m currently learning iOS Development using SwiftUI
-- 💞️ I’m looking to collaborate on native iOS Apps
 - 📫 I'm happy to chat! i@fsayfi.com
 
 <!---
