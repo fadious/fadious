@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="https://www.linkedin.com/in/fsayfi">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
+</p>
+
 - 👋 Hi, I’m Fadi
 - 👀 I’m interested in Software Quality Assurance and iOS Development
 - 📫 I'm happy to chat! i@fsayfi.com
