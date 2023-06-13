@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m Fadi
 - 👀 I’m interested in Software Quality Assurance and iOS Development
-- 📫 I'm happy to chat! <a href = "mailto: contact@fsayfi.com">Send Email</a>
+- 📫 I'm happy to chat! <a href = "mailto: contact@fsayfi.com">contact@fsayfi.com</a>
 
 <p align="center">
   <a href="https://github.com/fadious">
